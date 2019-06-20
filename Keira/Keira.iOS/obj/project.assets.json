@@ -3578,11 +3578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.iOS\\Keira.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.iOS\\Keira.iOS.csproj",
       "projectName": "Keira.iOS",
-      "projectPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.iOS\\Keira.iOS.csproj",
+      "projectPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.iOS\\Keira.iOS.csproj",
       "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3603,8 +3603,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj": {
-              "projectPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj"
+            "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj": {
+              "projectPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj"
             }
           }
         }

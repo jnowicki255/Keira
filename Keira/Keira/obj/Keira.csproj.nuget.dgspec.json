@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj": {}
+    "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj": {
+    "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj",
+        "projectUniqueName": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj",
         "projectName": "Keira",
-        "projectPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj",
+        "projectPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj",
         "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\obj\\",
+        "outputPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

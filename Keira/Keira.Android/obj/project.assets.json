@@ -3634,11 +3634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.Android\\Keira.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.Android\\Keira.Android.csproj",
       "projectName": "Keira.Android",
-      "projectPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.Android\\Keira.Android.csproj",
+      "projectPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.Android\\Keira.Android.csproj",
       "packagesPath": "C:\\Users\\Jacek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira.Android\\obj\\",
+      "outputPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3659,8 +3659,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj": {
-              "projectPath": "C:\\Users\\Jacek\\source\\repos\\Keira\\Keira\\Keira\\Keira.csproj"
+            "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj": {
+              "projectPath": "C:\\Users\\Jacek\\Documents\\GitHub\\Keira\\Keira\\Keira\\Keira.csproj"
             }
           }
         }
