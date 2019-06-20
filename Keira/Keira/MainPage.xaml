@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Keira.MainPage"
+             NavigationPage.HasNavigationBar="True"
+             Title="Keira 1.0">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="ToolbarItemSettings" Order="Primary" Text="Settings" Priority="0" Clicked="ToolbarItemSettings_Clicked"/>
+        <ToolbarItem Name="SecondaryToolbar" Order="Secondary" Priority="0"/>
+    </ContentPage.ToolbarItems>
+
+    <StackLayout>
+        <Frame VerticalOptions="CenterAndExpand">
+            <Label x:Name="outData" Text="{Binding MyMessageString}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+        </Frame>
+    </StackLayout>
+
+</ContentPage>

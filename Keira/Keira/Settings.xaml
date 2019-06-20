@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Keira.Settings"
+             Title="Settings">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <TableView Intent="Settings">
+                <TableRoot>
+                    <TableSection>
+                        <TextCell x:Name="TextCellHostname" Text="Hostname" Detail="test.mosquitto.org" Tapped="TextCellHostname_Tapped"/>
+                        <TextCell x:Name="TextCellPort" Text="Port" Detail="1883" Tapped="TextCellPort_Tapped" />
+                        <TextCell x:Name="TextCellTopic" Text="Topic" Detail="dzaq" Tapped="TextCellTopic_Tapped"/>
+                        <TextCell x:Name="TextCellUID" Text="UID" Detail="Jacek" Tapped="TextCellUID_Tapped"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

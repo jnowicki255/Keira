@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             mc:Ignorable="d"
+             x:Class="Keira.ViewSettingsHostname">
+    
+    <StackLayout Margin="10" Padding="20" Spacing="20" BackgroundColor="White" HorizontalOptions="FillAndExpand" VerticalOptions="Center">
+        <StackLayout HorizontalOptions="FillAndExpand">
+            <Label Text="Hostname or IP"/>
+            <Entry x:Name="MQTTSettingsHostname" Placeholder="test.mosquitto.org" Keyboard="Default"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text="Cancel" HorizontalOptions="FillAndExpand" BackgroundColor="#B40B00" TextColor="White" FontAttributes="Bold" CornerRadius="5" Margin="5"/>
+                <Button Text="OK" HorizontalOptions="FillAndExpand" BackgroundColor="#B40B00" TextColor="White" FontAttributes="Bold" CornerRadius="5" Margin="5"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+    
+</pages:PopupPage>
